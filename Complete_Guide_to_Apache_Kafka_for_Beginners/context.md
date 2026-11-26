@@ -3,7 +3,7 @@
  * [ 1.2 Apache Kafka in five minutes ]( ./LESSON_1/1.2_Apache_Kafka_in_five_minutes/1.2_Apache_Kafka_in_five_minutes.md )
  * [ 1.3 Course objectives ]( ./LESSON_1/1.3_Course_objectives/1.3_Course_objectives.md )
  * [ 1.4 Chapter Quiz ]( ./LESSON_1/1.4_Chapter_Quiz/1.4_Chapter_Quiz.md )
- # 2. 1. Kafka Theory
+ # 2. Kafka Theory
  * [ 2.1 Topics partitions and offsets ]( ./LESSON_2/2.1_Topics_partitions_and_offsets/2.1_Topics_partitions_and_offsets.md )
  * [ 2.2 Producers and message keys ]( ./LESSON_2/2.2_Producers_and_message_keys/2.2_Producers_and_message_keys.md )
  * [ 2.3 Consumers and deserialization ]( ./LESSON_2/2.3_Consumers_and_deserialization/2.3_Consumers_and_deserialization.md )
