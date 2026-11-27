@@ -15,7 +15,7 @@
  * [ 2.9 Kafka KRaft- Removing ZooKeeper ]( ./LESSON_2/2.9_Kafka_KRaft-_Removing_ZooKeeper/2.9_Kafka_KRaft-_Removing_ZooKeeper.md )
  * [ 2.10 Theory roundup ]( ./LESSON_2/2.10_Theory_roundup/2.10_Theory_roundup.md )
  * [ 2.11 Chapter Quiz ]( ./LESSON_2/2.11_Chapter_Quiz/2.11_Chapter_Quiz.md )
- # 3. 2. Starting Kafka
+ # 3. Starting Kafka
  * [ 3.1 Important- Starting Kafka and lectures order ]( ./LESSON_3/3.1_Important-_Starting_Kafka_and_lectures_order/3.1_Important-_Starting_Kafka_and_lectures_order.md )
  * [ 3.2 Starting Kafka with Conduktor- Multi-platform ]( ./LESSON_3/3.2_Starting_Kafka_with_Conduktor-_Multi-platform/3.2_Starting_Kafka_with_Conduktor-_Multi-platform.md )
  * [ 3.3 macOS X- Download and set up Kafka in PATH ]( ./LESSON_3/3.3_macOS_X-_Download_and_set_up_Kafka_in_PATH/3.3_macOS_X-_Download_and_set_up_Kafka_in_PATH.md )
@@ -28,7 +28,7 @@
  * [ 3.10 Windows WSL2- Start Kafka in KRaft mode ]( ./LESSON_3/3.10_Windows_WSL2-_Start_Kafka_in_KRaft_mode/3.10_Windows_WSL2-_Start_Kafka_in_KRaft_mode.md )
  * [ 3.11 Windows WSL2- How to fix problems ]( ./LESSON_3/3.11_Windows_WSL2-_How_to_fix_problems/3.11_Windows_WSL2-_How_to_fix_problems.md )
  * [ 3.12 Chapter Quiz ]( ./LESSON_3/3.12_Chapter_Quiz/3.12_Chapter_Quiz.md )
- # 4. 3. CLI Command-Line Interface 101
+ # 4. CLI Command-Line Interface 101
  * [ 4.1 CLI introduction ]( ./LESSON_4/4.1_CLI_introduction/4.1_CLI_introduction.md )
  * [ 4.2 Kafka topics CLI ]( ./LESSON_4/4.2_Kafka_topics_CLI/4.2_Kafka_topics_CLI.md )
  * [ 4.3 Kafka console producer CLI ]( ./LESSON_4/4.3_Kafka_console_producer_CLI/4.3_Kafka_console_producer_CLI.md )
@@ -37,9 +37,9 @@
  * [ 4.6 Kafka consumer groups CLI ]( ./LESSON_4/4.6_Kafka_consumer_groups_CLI/4.6_Kafka_consumer_groups_CLI.md )
  * [ 4.7 Resetting offsets ]( ./LESSON_4/4.7_Resetting_offsets/4.7_Resetting_offsets.md )
  * [ 4.8 Chapter Quiz ]( ./LESSON_4/4.8_Chapter_Quiz/4.8_Chapter_Quiz.md )
- # 5. 4. Kafka UI
+ # 5. Kafka UI
  * [ 5.1 Conduktor- Demo ]( ./LESSON_5/5.1_Conduktor-_Demo/5.1_Conduktor-_Demo.md )
- # 6. 5. Kafka Java Programming 101
+ # 6. Kafka Java Programming 101
  * [ 6.1 Kafka SDK list ]( ./LESSON_6/6.1_Kafka_SDK_list/6.1_Kafka_SDK_list.md )
  * [ 6.2 Creating a Kafka project ]( ./LESSON_6/6.2_Creating_a_Kafka_project/6.2_Creating_a_Kafka_project.md )
  * [ 6.3 Java producer ]( ./LESSON_6/6.3_Java_producer/6.3_Java_producer.md )
@@ -53,9 +53,9 @@
  * [ 6.11 Java consumer auto offset commit behavior ]( ./LESSON_6/6.11_Java_consumer_auto_offset_commit_behavior/6.11_Java_consumer_auto_offset_commit_behavior.md )
  * [ 6.12 Programming- Advanced tutorials ]( ./LESSON_6/6.12_Programming-_Advanced_tutorials/6.12_Programming-_Advanced_tutorials.md )
  * [ 6.13 Chapter Quiz ]( ./LESSON_6/6.13_Chapter_Quiz/6.13_Chapter_Quiz.md )
- # 7. 6. Kafka Real-World Project
+ # 7. Kafka Real-World Project
  * [ 7.1 Real-world project overview ]( ./LESSON_7/7.1_Real-world_project_overview/7.1_Real-world_project_overview.md )
- # 8. 7. Kafka Wikimedia Producer and Advanced Producer Configurations
+ # 8. Kafka Wikimedia Producer and Advanced Producer Configurations
  * [ 8.1 Wikimedia producer project setup ]( ./LESSON_8/8.1_Wikimedia_producer_project_setup/8.1_Wikimedia_producer_project_setup.md )
  * [ 8.2 Wikimedia producer implementation ]( ./LESSON_8/8.2_Wikimedia_producer_implementation/8.2_Wikimedia_producer_implementation.md )
  * [ 8.3 Wikimedia producer run ]( ./LESSON_8/8.3_Wikimedia_producer_run/8.3_Wikimedia_producer_run.md )
@@ -71,7 +71,7 @@
  * [ 8.13 Producer default partitioner and sticky partitioner ]( ./LESSON_8/8.13_Producer_default_partitioner_and_sticky_partitioner/8.13_Producer_default_partitioner_and_sticky_partitioner.md )
  * [ 8.14 Advanced max block ms and buffer memory ]( ./LESSON_8/8.14_Advanced_max_block_ms_and_buffer_memory/8.14_Advanced_max_block_ms_and_buffer_memory.md )
  * [ 8.15 Chapter Quiz ]( ./LESSON_8/8.15_Chapter_Quiz/8.15_Chapter_Quiz.md )
- # 9. 8. OpenSearch Consumer and Advanced Consumer Configurations	
+ # 9. OpenSearch Consumer and Advanced Consumer Configurations	
  * [ 9.1 OpenSearch consumer- Project overview ]( ./LESSON_9/9.1_OpenSearch_consumer-_Project_overview/9.1_OpenSearch_consumer-_Project_overview.md )
  * [ 9.2 OpenSearch consumer- Project setup ]( ./LESSON_9/9.2_OpenSearch_consumer-_Project_setup/9.2_OpenSearch_consumer-_Project_setup.md )
  * [ 9.3 Setting up OpenSearch on Docker ]( ./LESSON_9/9.3_Setting_up_OpenSearch_on_Docker/9.3_Setting_up_OpenSearch_on_Docker.md )
@@ -89,7 +89,7 @@
  * [ 9.15 Consumer internal threads ]( ./LESSON_9/9.15_Consumer_internal_threads/9.15_Consumer_internal_threads.md )
  * [ 9.16 Consumer replica fetching- Rack awareness ]( ./LESSON_9/9.16_Consumer_replica_fetching-_Rack_awareness/9.16_Consumer_replica_fetching-_Rack_awareness.md )
  * [ 9.17 Chapter Quiz ]( ./LESSON_9/9.17_Chapter_Quiz/9.17_Chapter_Quiz.md )
- # 10. 9. Kafka Extended APIs for Developers
+ # 10. Kafka Extended APIs for Developers
  * [ 10.1 Kafka extended APIs- Overview ]( ./LESSON_10/10.1_Kafka_extended_APIs-_Overview/10.1_Kafka_extended_APIs-_Overview.md )
  * [ 10.2 Kafka Connect introduction ]( ./LESSON_10/10.2_Kafka_Connect_introduction/10.2_Kafka_Connect_introduction.md )
  * [ 10.3 Kafka Connect Wikimedia and Elasticsearch hands-on ]( ./LESSON_10/10.3_Kafka_Connect_Wikimedia_and_Elasticsearch_hands-on/10.3_Kafka_Connect_Wikimedia_and_Elasticsearch_hands-on.md )
@@ -99,7 +99,7 @@
  * [ 10.7 Kafka Schema Registry hands-on ]( ./LESSON_10/10.7_Kafka_Schema_Registry_hands-on/10.7_Kafka_Schema_Registry_hands-on.md )
  * [ 10.8 Which Kafka API should you use? ]( ./LESSON_10/10.8_Which_Kafka_API_should_you_use?/10.8_Which_Kafka_API_should_you_use?.md )
  * [ 10.9 Chapter Quiz ]( ./LESSON_10/10.9_Chapter_Quiz/10.9_Chapter_Quiz.md )
- # 11. 10. Real-World Insights and Case Studies- Big Data and Fast Data	
+ # 11. Real-World Insights and Case Studies- Big Data and Fast Data	
  * [ 11.1 Choosing partition count and replication factor ]( ./LESSON_11/11.1_Choosing_partition_count_and_replication_factor/11.1_Choosing_partition_count_and_replication_factor.md )
  * [ 11.2 Kafka topics naming convention ]( ./LESSON_11/11.2_Kafka_topics_naming_convention/11.2_Kafka_topics_naming_convention.md )
  * [ 11.3 Case study- MovieFlix ]( ./LESSON_11/11.3_Case_study-_MovieFlix/11.3_Case_study-_MovieFlix.md )
@@ -109,14 +109,14 @@
  * [ 11.7 Case study- Big data ingestion ]( ./LESSON_11/11.7_Case_study-_Big_data_ingestion/11.7_Case_study-_Big_data_ingestion.md )
  * [ 11.8 Case study- Logging and metrics aggregation ]( ./LESSON_11/11.8_Case_study-_Logging_and_metrics_aggregation/11.8_Case_study-_Logging_and_metrics_aggregation.md )
  * [ 11.9 Chapter Quiz ]( ./LESSON_11/11.9_Chapter_Quiz/11.9_Chapter_Quiz.md )
- # 12. 11. Kafka in the Enterprise for Admins	
+ # 12. Kafka in the Enterprise for Admins	
  * [ 12.1 Kafka cluster setup high-level architecture overview ]( ./LESSON_12/12.1_Kafka_cluster_setup_high-level_architecture_overview/12.1_Kafka_cluster_setup_high-level_architecture_overview.md )
  * [ 12.2 Kafka monitoring and operations ]( ./LESSON_12/12.2_Kafka_monitoring_and_operations/12.2_Kafka_monitoring_and_operations.md )
  * [ 12.3 Kafka security ]( ./LESSON_12/12.3_Kafka_security/12.3_Kafka_security.md )
  * [ 12.4 Kafka multi-cluster and MirrorMaker ]( ./LESSON_12/12.4_Kafka_multi-cluster_and_MirrorMaker/12.4_Kafka_multi-cluster_and_MirrorMaker.md )
  * [ 12.5 Advertised listeners- Kafka client and server communication protocol ]( ./LESSON_12/12.5_Advertised_listeners-client_and_server_protocol/12.5_Advertised_listeners-client_and_server_protocol.md )
  * [ 12.6 Chapter Quiz ]( ./LESSON_12/12.6_Chapter_Quiz/12.6_Chapter_Quiz.md )
- # 13. 12. Advanced Topics Configurations	
+ # 13. Advanced Topics Configurations	
  * [ 13.1 Changing a topic configuration ]( ./LESSON_13/13.1_Changing_a_topic_configuration/13.1_Changing_a_topic_configuration.md )
  * [ 13.2 Segment and indexes ]( ./LESSON_13/13.2_Segment_and_indexes/13.2_Segment_and_indexes.md )
  * [ 13.3 Log cleanup policies ]( ./LESSON_13/13.3_Log_cleanup_policies/13.3_Log_cleanup_policies.md )
