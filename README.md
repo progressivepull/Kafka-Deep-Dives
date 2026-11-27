@@ -61,7 +61,7 @@ Multiple consumers can work together as a consumer group to increase processing 
 3. Consumers subscribe to topics and read messages.
 4. Kafka retains messages for a configurable period, allowing consumers to replay historical data if needed.
 
-<img src="README_media/media/image1.png" style="width:6.5in;height:3.0in" />
+<img src="README_media/media/image1.png" style="width:6.5in;height:3.5in" />
 				
 * **Producer:** Applications, microservices, database changes, and log files.
 * **Kafka Topic:** A logical channel that organizes messages.
